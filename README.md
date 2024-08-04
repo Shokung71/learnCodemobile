@@ -1,2 +1,2 @@
-# learnCodemobile
+# learn Codemobile
 เรียนการทำความรู้จัก และรู้จักกับ Git (Version Control) จาก YT: CMDev
